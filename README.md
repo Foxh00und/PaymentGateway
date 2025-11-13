@@ -34,7 +34,7 @@ Security: Spring Security (Password Encoding)
 
 🎯 Purpose
 
-The goal of this project is to simulate the core workflow of an electronic payment system — the same type of functionality used in platforms like HPS PowerCARD, which manage issuing, acquiring, and transaction processing.
+The goal of this project is to simulate the core workflow of an electronic payment system — the same type of functionality used in Big Payment Companies, which manage issuing, acquiring, and transaction processing.
 
 🚀 Future Improvements
 
